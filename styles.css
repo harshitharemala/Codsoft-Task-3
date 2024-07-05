@@ -1,0 +1,67 @@
+#contact{
+    text-align:center;
+    background-color: antiquewhite;
+}
+.me{
+    margin:20px;
+    padding:10px;
+    border-radius: 30%;
+    background-color:pink;
+    
+}
+.container{
+    text-align: right;
+    padding: 10px;
+    background-color:antiquewhite;
+
+}
+#xc{
+    width:500px;
+}
+img{
+    float:right;
+    width:300px;
+}
+#we{
+    float:left;
+}
+#resume {
+    background-color: antiquewhite;
+    padding: 2em 0;
+    text-align: center;
+}
+h2{
+    text-align:center;
+    background-color: pink;
+        width: 200px;
+        border: 10px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 30%;
+}
+h3{
+    text-align:center;
+    background-color: antiquewhite;
+    width: 200px;
+    border: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+#qw{
+    text-align: center;
+}
+.jk{
+    display:inline-block;
+}
+#rt{
+    background-color: pink;
+    padding: 10px;
+}
+body{
+    font-weight: bold;
+    font-size: x-large;
+    font-family:cursive;
+}
+html {
+    scroll-behavior: smooth;
+  }
